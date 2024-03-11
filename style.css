@@ -232,11 +232,12 @@ a{
     margin-top: -6px;
 }
 .poster img{
-    height: 68px;
+    height: 60px;
     padding: 2px;
     margin-right: 1.25rem;
 }
 .album-song{
+    height: 72px;
     display: flex;
     justify-content: center;
     align-items: center;
